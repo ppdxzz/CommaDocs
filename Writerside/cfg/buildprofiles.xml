@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <primary-color>Frozen</primary-color>
+        <color-preset>Contrast</color-preset>
+        <header-logo>logo.svg</header-logo>
+    </variables>
+    <build-profile instance="sd"/>
+    <footer>
+        <copyright>Comma 2022-2023</copyright>
+        <social type="blog" href="https://github.com/ppdxzz/ppdxzz"/>
+        <social type="email" href="peichenwan@gmail.com"/>
+    </footer>
+</buildprofiles>
