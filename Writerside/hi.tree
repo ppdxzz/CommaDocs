@@ -8,4 +8,5 @@
 
     <toc-element topic="getting-started.md"/>
     <toc-element topic="change-notes.md"/>
+    <toc-element topic="FAQ.md"/>
 </instance-profile>
