@@ -2,7 +2,7 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
-        <primary-color>frozen</primary-color>
+        <primary-color>strawberry</primary-color>
         <color-preset>Contrast</color-preset>
         <header-logo>logo.svg</header-logo>
         <showDownloadButton>true</showDownloadButton>
@@ -13,7 +13,7 @@
     </variables>
     <build-profile instance="sd"/>
     <footer>
-        <copyright>Comma 2022-2023</copyright>
+        <copyright>Comma 2022-2024</copyright>
         <social type="blog" href="https://github.com/ppdxzz/"/>
         <social type="email" href="peichenwan@gmail.com"/>
     </footer>
