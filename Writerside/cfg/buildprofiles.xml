@@ -8,13 +8,14 @@
         <showDownloadButton>true</showDownloadButton>
         <download-title>Get from Marketplace</download-title>
         <download-page>https://plugins.jetbrains.com/plugin/22092-comma</download-page>
-        <product-web-url>https://comma.youhaveme.cn/getting-started.html</product-web-url>
+        <product-web-url>https://comma.ppdxzz.cn/getting-started.html</product-web-url>
         <analytics-head-script-file>gtag.js</analytics-head-script-file>
     </variables>
     <build-profile instance="sd"/>
     <footer>
-        <copyright>Comma 2022-2024</copyright>
+        <copyright>2022-2024 皮皮的小猪仔</copyright>
         <social type="blog" href="https://github.com/ppdxzz/"/>
         <social type="email" href="peichenwan@gmail.com"/>
+        <link href="https://beian.miit.gov.cn/">豫ICP备2020036910号-4</link>
     </footer>
 </buildprofiles>
