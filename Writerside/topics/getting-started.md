@@ -32,7 +32,7 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 <p>
     <img src="quick_access.gif" alt="" />
 </p>
-同时快速转换也是支持快捷键，Mac用户 <shortcut>Control+Option+ ,</shortcut> ，而Windows用户 <shortcut>Ctrl+Alt+ ,</shortcut>，朋友们可以自己尝试一下。
+同时快速转换也是支持快捷键，Mac用户 <shortcut>Control+Command+ ,</shortcut> ，而Windows用户 <shortcut>Ctrl+Alt+ ,</shortcut>，朋友们可以自己尝试一下。
 
 ## 反馈与支持
 我们的工具难免会有不足需要改善的地方，如果你在使用的过程中有什么问题，欢迎及时向我们反馈，你可以发邮件至<a href="mailto:peichenwan@gmail.com">peichenwan@gmail.com</a>，感谢广大朋友们支持。
